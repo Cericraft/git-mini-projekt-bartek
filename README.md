@@ -42,4 +42,4 @@ W repozytorium ma być co najmniej 10 commitów. W tym miejscu opisz krótko, co
 
 ## Link do repozytorium
 
-Wklej link do publicznego repozytorium GitHub: ........................................
+Wklej link do publicznego repozytorium GitHub:(https://github.com/Cericraft/git-mini-projekt-bartek)
