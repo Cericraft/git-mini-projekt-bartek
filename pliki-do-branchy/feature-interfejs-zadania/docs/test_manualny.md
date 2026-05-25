@@ -7,3 +7,8 @@ Sprawdź na końcu pracy:
 - [ ] Licznik zadań w `script.js` reaguje na zaznaczanie pól.
 - [ ] README zawiera własny opis projektu.
 - [ ] Na GitHub widoczne są `main` oraz trzy branche robocze.
+# Test manualny
+
+- Strona otwiera się poprawnie
+- Style działają
+- Skrypt działa
