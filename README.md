@@ -4,12 +4,12 @@
 
 ## Autor
 
-Imię i nazwisko: ........................................
-Klasa / grupa: ..........................................
+Imię i nazwisko: Bartosz Wagner
+Klasa / grupa: 4TP
 
 ## Cel projektu
 
-Napisz własnymi słowami, po co powstał projekt i czego uczysz się podczas pracy z Git oraz GitHub.
+Projekt pokazuje podstawową pracę z Git i GitHub
 
 ## Opis projektu
 
