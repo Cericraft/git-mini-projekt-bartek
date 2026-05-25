@@ -21,14 +21,13 @@ Mini projekt jest prostą stroną/notesem o nauce Gita. Zawiera pliki HTML, CSS,
 2. Otwórz plik `index.html` w przeglądarce.
 3. Sprawdź, czy strona, style i skrypt działają poprawnie.
 
-## Struktura plików
+## Struktura projektu
 
-- `index.html` - strona startowa mini projektu.
-- `style.css` - wygląd strony.
-- `script.js` - prosta interakcja i licznik zadań.
-- `data/zadania.json` - przykładowe dane z zadaniami.
-- `docs/` - krótka dokumentacja projektu.
-- `pliki-do-branchy/` - materiały pomocnicze do pracy na trzech branchach.
+- index.html
+- style.css
+- script.js
+- docs/
+- data/
 
 ## Wymagane branche
 
