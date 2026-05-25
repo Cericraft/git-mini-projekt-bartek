@@ -5,3 +5,11 @@
   { "komenda": "git switch -c", "opis": "utworzenie nowego brancha" },
   { "komenda": "git push -u origin", "opis": "pierwsze wysłanie brancha na GitHub" }
 ]
+{
+  "komendy": [
+    "git init",
+    "git add .",
+    "git commit",
+    "git push"
+  ]
+}
