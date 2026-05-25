@@ -1,8 +1,8 @@
 # Autor projektu
 
-Imię i nazwisko: ........................................
-Klasa / grupa: ..........................................
-Data wykonania: .........................................
+Imię i nazwisko: Bartosz Wagner
+Klasa / grupa: 4TP
+Data wykonania: 25.05.2026
 
 ## Mój opis pracy
 
