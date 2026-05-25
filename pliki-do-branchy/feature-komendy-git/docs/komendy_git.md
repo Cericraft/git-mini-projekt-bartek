@@ -10,3 +10,9 @@
 | `git merge nazwa` | scala zmiany z brancha |
 | `git remote -v` | pokazuje zdalne repozytoria |
 | `git push` | wysyła commity do GitHub |
+# Podstawowe komendy Git
+
+- git init
+- git add .
+- git commit
+- git push

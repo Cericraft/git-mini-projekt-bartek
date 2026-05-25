@@ -11,3 +11,6 @@ Przed użyciem SSH należy mieć dodany klucz publiczny do konta GitHub i sprawd
 ```bash
 ssh -T git@github.com
 ```
+# GitHub SSH
+
+Projekt został połączony z GitHub przy użyciu SSH
